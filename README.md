@@ -12,7 +12,7 @@
 -     string Age = " 2003 ";
 -     string Gender = " Nam ";
 -     string Address = " Hà Nội, Việt Nam";
--     string University = " Trường Youtube và F8 - ";
+-     string University = " Trường Youtube và F8, W3schools chấm com, Codelearn chấm io.. ";
 -     string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
 -     string FamousQuotes = " Chúng Ta Không Thể Tuyệt Vời Ngay Từ Khi Bắt Đầu, Mà Phải Dám Bắt Đầu Để Trở Nên Tuyệt Vời Hơn . ! ";
 -           }
