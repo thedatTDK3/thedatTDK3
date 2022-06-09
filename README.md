@@ -5,9 +5,9 @@
 -    namespace NguyenTheDat
 -     {
 -        class thedatTDK3
--       {
+-        {
 -           static void Main(string[] args){
--          {    
+-           {    
 -     string Name = " Nguyễn Thế Đạt";
 -     string Age = " 2003 ";
 -     string Gender = " Nam ";
