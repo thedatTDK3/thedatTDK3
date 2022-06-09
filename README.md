@@ -4,10 +4,10 @@
 
 -    namespace NguyenTheDat
 -     {
--       class thedatTDK3
--      {
--         static void Main(string[] args){
--       {    
+-        class thedatTDK3
+-       {
+-           static void Main(string[] args){
+-          {    
 -     string Name = " Nguyễn Thế Đạt";
 -     string Age = " 2003 ";
 -     string Gender = " Nam ";
@@ -15,8 +15,8 @@
 -     string University = " Trường Youtube và F8 - ";
 -     string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
 -     string FamousQuotes = " Chúng Ta Không Thể Tuyệt Vời Ngay Từ Khi Bắt Đầu, Mà Phải Dám Bắt Đầu Để Trở Nên Tuyệt Vời Hơn . ! ";
--       }
--      }
+-           }
+-        }
 -     }
    
 
