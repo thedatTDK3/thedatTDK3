@@ -2,12 +2,23 @@
 <p align="center"><img src="https://img.icons8.com/clouds/100/undefined/vietnam--v2.png"/></p>
 <h3 align="center"> Developer From Vietnam </h3>
 
-- String  Age  = " 2003 "
-- String Address = " Hà Nội, Việt Nam"
-- String  FamousQuotes = " Chúng Ta Không Thể Tuyệt Vời Ngay Từ Khi Bắt Đầu, Mà Phải Dám Bắt Đầu Để Trở Nên Tuyệt Vời Hơn . "
-- Translated : ( We Can't Be Great From The Beginning, We Have To Dare To Start To Be Great . )
-
-
+-    namespace NguyenTheDat
+-     {
+-       class thedatTDK3
+-      {
+-        static void Main(string[] args){
+-       {    
+-     string Name = " Nguyễn Thế Đạt";
+-     string Age = " 2003 ";
+-     string Gender = " Nam ";
+-     string Address = " Hà Nội, Việt Nam";
+-     string University = " Trường Youtube và F8 - ";
+-     string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
+-     string FamousQuotes = " Chúng Ta Không Thể Tuyệt Vời Ngay Từ Khi Bắt Đầu, Mà Phải Dám Bắt Đầu Để Trở Nên Tuyệt Vời Hơn . ! ";
+-       }
+-      }
+-     }
+   
 
 ## 📫 How to reach me:
 
