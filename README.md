@@ -1,11 +1,55 @@
-- 👋 Hi, I’m @thedatTDK3
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center"> 👋 Hello World, I'm Nguyễn Thế Đạt☑ </h1>
+<p align="center"><img src="https://img.icons8.com/clouds/100/undefined/vietnam--v2.png"/></p>
+<h3 align="center"> Developer From Vietnam </h3>
 
- Hello World ! I Am Nguyễn Thế Đạt <3 
-<!---
-thedatTDK3/thedatTDK3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- String  Age  = " 2003 "
+- String Address = " Hà Nội, Việt Nam"
+- String  FamousQuotes = " Chúng Ta Không Thể Tuyệt Vời Ngay Từ Khi Bắt Đầu, Mà Phải Dám Bắt Đầu Để Trở Nên Tuyệt Vời Hơn . "
+- Translated : ( We Can't Be Great From The Beginning, We Have To Dare To Start To Be Great . )
+
+
+
+## 📫 How to reach me:
+
+
+
+<p align="center">
+  
+  <a href="https://www.facebook.com/Info.NguyenTheDat.Username" alt="Facebook">
+    <img src="https://img.icons8.com/color/48/undefined/facebook.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/thedatTDK3" alt="Github">
+    <img src="https://img.icons8.com/glyph-neue/64/undefined/github.png"/>
+  </a> 
+  
+  <a href="https://www.instagram.com/devthedat/" alt="Instagram"  >
+    <img src="https://img.icons8.com/color/48/undefined/instagram-new--v1.png"/>
+  </a>
+  
+</p>
+
+## Skills:
+<p align="center">
+   
+  <img src="https://img.icons8.com/color/48/undefined/visual-studio--v2.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/fluency/48/undefined/javascript.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/c-programming.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
+</p>
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
