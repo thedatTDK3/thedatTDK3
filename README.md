@@ -12,7 +12,7 @@ namespace NguyenTheDat
      string Age = " 2003 ";
      string Gender = " Nam ";
      string Address = " Hà Nội, Việt Nam";
-     string University = " Trường Youtube và F8, W3schools chấm com, Codelearn chấm io.. ";
+     string University = " Youtube F8, fullstack chấm edu chấm vn ";
      string Skills = "C, C++, C#, Java, Python, HTML, JavaScript";
      string FamousQuotes = " Chúng Ta Không Thể Tuyệt Vời Ngay Từ Khi Bắt Đầu, Mà Phải Dám Bắt Đầu Để Trở Nên Tuyệt Vời Hơn . ! ";
            }
