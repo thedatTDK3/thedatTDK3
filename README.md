@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm Nguyễn Thế Đạt ! </h1>
-<p align="center"><img src="https://img.icons8.com/clouds/100/undefined/vietnam--v2.png"/></p>
-<h3 align="center"> Developer From Vietnam </h3>
+
 
 ```C#
 namespace NguyenTheDat
