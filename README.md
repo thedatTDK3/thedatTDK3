@@ -1,7 +1,6 @@
-<h1 align="center"> Thảo Thích Ăn Cức  </h1>
+<h1 align="center"> Thảo Rất Thích Ăn Cức   </h1>
 <p align="center">
-<img src="https://img.icons8.com/external-sbts2018-outline-color-sbts2018/58/undefined/external-44-asteroid-space-sbts2018-outline-color-sbts2018.png"/>
-<img src="https://img.icons8.com/nolan/64/space-shuttle.png"/>
+<img src="https://img.icons8.com/emoji/48/000000/pile-of-poo.png"/>
 </p>
 
 ```C#
